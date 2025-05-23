@@ -96,7 +96,7 @@ tifffile==2020.12.8
 torch==1.7.0+cu101
 torchaudio==0.7.0
 torchvision==0.8.1+cu101
-tornado==6.1
+tornado==6.5.1
 tqdm==4.54.1
 traitlets==5.0.5
 trimesh==3.8.15
