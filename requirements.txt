@@ -93,7 +93,7 @@ terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 tifffile==2020.12.8
-torch==1.7.0+cu101
+torch==2.7.0
 torchaudio==0.7.0
 torchvision==0.8.1+cu101
 tornado==6.1
